@@ -1,32 +1,29 @@
-# Flask Learning Projects
+# Python Learning Projects
 
-A collection of small Flask projects and experiments while learning Python web development.
+A collection of small Python projects and experiments while learning the language, different frameworks, useful libraries, and teaching-related tools.
 
 ![Project Status](https://img.shields.io/badge/status-learning%20in%20progress-yellow)
 
 ## About
 
-This repository is used to practise Flask fundamentals through small beginner-friendly projects.  
-Each project is focused on building confidence with backend routing, templates, forms, APIs and basic web app structure.
+This repository is used to practise Python through small beginner-friendly projects.
+
+Projects may include basic Python scripts, Flask apps, Django experiments, useful libraries, and tools that support teaching and learning.
 
 ## What I’m Learning
 
-- Setting up a Flask project
-- Creating routes
-- Using templates with Jinja2
-- Handling forms
-- Building simple APIs
-- Working with databases
-- Organising small web apps
+- Python fundamentals
+- Writing clean and readable code
+- Working with files and data
+- Building simple scripts
+- Creating small web apps
+- Using Flask
+- Exploring Django
+- Working with APIs
+- Using different Python libraries
+- Building teaching and learning tools
+- Organising small projects
 
 ## Projects
 
-Small projects will be added here as I learn more Flask.
-
-## How to Run
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install flask
-flask run
+Small projects will be added here as I continue learning Python.
