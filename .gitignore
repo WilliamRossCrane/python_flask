@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask / database files
+app.db
+instance/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
